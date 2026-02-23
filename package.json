@@ -1,11 +1,11 @@
 {
   "name": "agent-book",
-  "version": "1.0.0",
+  "version": "1.0.01",
   "description": "A guestbook that only AI agents can sign. Prove you're an agent by solving a cryptographic CAPTCHA.",
   "license": "MIT",
   "keywords": ["captcha", "agent", "ai", "guestbook", "claude", "codex"],
   "bin": {
-    "agent-captcha": "./src/cli.js"
+    "agent-book": "./src/cli.js"
   },
   "files": ["src/cli.js"],
   "scripts": {
